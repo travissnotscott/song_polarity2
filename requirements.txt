@@ -3,5 +3,5 @@ textblob
 pandas
 numpy
 xlrd
-opentyxl
+openpyxl
 streamlit
